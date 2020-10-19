@@ -165,6 +165,7 @@ export default {
     transition: all 1s ease;
     transform: translate(0);
     text-decoration: none;
+    line-height: 1.4rem;
     &:hover {
       transform: translate(0.3rem);
       opacity: 0.4;
