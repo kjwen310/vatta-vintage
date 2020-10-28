@@ -633,6 +633,7 @@ export default {
   @media (max-width: 360px) {
     .shop-button {
       .fa-shopping-cart {
+        margin-top: 0.8rem;
         font-size: 1rem;
       }
       .link-text {
