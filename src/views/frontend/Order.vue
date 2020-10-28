@@ -136,7 +136,7 @@
                 <button
                   type="button"
                   class="btn btn-outline-info"
-                  @click="$router.push('shop/products/clothes')">取消</button>
+                  @click="$router.push('/shop/products/clothes')">取消</button>
                 <button
                   type="submit"
                   class="btn btn-primary text-white ml-3"

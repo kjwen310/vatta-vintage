@@ -44,7 +44,7 @@ window.$ = $;
 
 new Vue({
   created() {
-    AOS.init({ disable: 'phone' });
+    AOS.init();
   },
   router,
   render: (h) => h(App),

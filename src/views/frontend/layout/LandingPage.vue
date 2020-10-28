@@ -631,6 +631,14 @@ export default {
     }
   }
   @media (max-width: 360px) {
+    .shop-button {
+      .fa-shopping-cart {
+        font-size: 1rem;
+      }
+      .link-text {
+        letter-spacing: 0;
+      }
+    }
     .sec-2 {
       .sec-text {
         h4 {
