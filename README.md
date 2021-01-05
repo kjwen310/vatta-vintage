@@ -1,16 +1,16 @@
 # vatta 二手風格小舖
 
 <p>
-  一件衣服，一個故事，在 vatta 二手衣穿出妳的生活風格！
+  一件衣服，一個故事，在 Vatta 二手衣穿出妳的生活風格！
 </p>
 <p>
-  Demo：<a  href="https://kjwen310.github.io/vatta-vintage/#/">vatta 二手風格小舖</a>
+  Demo：<a  href="https://kjwen310.github.io/vatta-vintage/#/">Vatta 二手風格小舖</a>
 </p>
 <p>
-  本專案僅作為練習，無商業用途，特別感謝<a  href="https://www.facebook.com/clothes.telling">衣服圖書館</a>支援圖片與文案
+  本專案僅作為練習，無商業用途，特別感謝 <a  href="https://www.facebook.com/clothes.telling">衣服圖書館</a> 支援圖片與文案
 </p>
 <p>
-  <img src="./public/images/vue-game-readme-1.png" />
+  <img src="./public/images/vatta-readme-1.png" />
 </p>
 
 
